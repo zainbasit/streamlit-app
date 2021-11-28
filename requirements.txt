@@ -1,0 +1,6 @@
+streamlit==1.2.0
+ktrain==0.28.3
+spacy==3.2.0
+goose3
+nltk
+transformers
